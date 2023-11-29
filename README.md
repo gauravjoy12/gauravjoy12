@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Kumar
 - 👀 I’m interested in Automation Anywhere,Uipath
 - 🌱 I’m currently learning ServiceNow
-- 💞️ I’m looking to collaborate on ServiceNow
+- 💞️ I’m looking to collaborate on ServiceNow Automation
 - 📫 How to reach me gauravjoy12@gmail.com
 
 <!---
